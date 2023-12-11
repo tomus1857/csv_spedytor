@@ -1,0 +1,101 @@
+ID_LADUNEK,NAZWA,LICZBA_PALET,WAGA,ODBIORCA
+1,Tkaniny,8,564.00,Firma A
+2,Przemyslowe czujniki,2,86.00,Firma B
+3,Akumulatory,10,2380.00,Firma C
+4,Narzedzia,5,732.00,Firma D
+5,Artykuly spozywcze,12,324.00,Firma E
+6,Elektronika,3,184.00,Firma F
+7,Odziez,6,912.00,Firma G
+8,Meble,4,1624.00,Firma H
+9,Chemiczne,15,780.00,Firma I
+10,Ksiazki,7,248.00,Firma J
+11,Urzadzenia medyczne,1,760.00,Firma K
+12,Kosmetyki,9,472.00,Firma L
+13,Opony,20,1200.00,Firma M
+14,Biazteria,2,40.00,Firma N
+15,Darmowe probki,1,5.00,Firma O
+16,Artykuly pismiennicze,4,68.00,Firma P
+17,Zabawki,8,350.00,Firma Q
+18,Srodki czystosci,6,456.00,Firma R
+19,Sportowe sprzety,3,754.00,Firma S
+20,Wyposazenie biurowe,5,990.00,Firma T
+21,Elementy samochodowe,15,2300.00,Firma U
+22,Kawa,3,48.00,Firma V
+23,Drewniane meble,7,1420.00,Firma W
+24,Przewody elektryczne,10,480.00,Firma X
+25,Kosze wiklinowe,6,364.00,Firma Y
+26,Wyroby garncarskie,4,228.00,Firma Z
+27,Artykuly papiernicze,3,87.00,Firma A
+28,Czesci samochodowe,6,1145.00,Firma B
+29,Meble ogrodowe,2,287.00,Firma C
+30,Artykuly biurowe,4,195.00,Firma D
+31,Zywnosc,8,324.00,Firma E
+32,Elektronika,1,56.00,Firma F
+33,Materialy budowlane,12,1675.00,Firma G
+34,Odziez,5,732.00,Firma H
+35,Chemikalia,3,285.00,Firma I
+36,Ksiazki,7,248.00,Firma J
+37,Zabawki,2,64.00,Firma K
+38,Lozka,1,143.00,Firma L
+39,Kosmetyki,9,472.00,Firma M
+40,Narzedzia,4,612.00,Firma N
+41,Artykuly sportowe,6,514.00,Firma O
+42,Przemyslowe czujniki,2,86.00,Firma P
+43,Srodki czystosci,5,305.00,Firma Q
+44,Zlom,20,1882.00,Firma R
+45,Chemikalia,10,845.00,Firma S
+46,Sprzet AGD,3,430.00,"Firma T	"
+47,Artykuly spozywcze,15,746.00,Firma U
+48,Kawa,2,32.00,Firma V
+49,Opony,8,480.00,Firma W
+50,Narzedzia,6,732.00,Firma X
+51,Elementy elektroniczne,4,196.00,Firma Y
+52,Produkty spozywcze,4,243.00,Firma A
+53,Chemikalia,6,785.00,Firma B
+54,Elektronika,2,156.00,Firma C
+55,Narzedzia,8,976.00,Firma D
+56,Artykuly papiernicze,3,76.00,Firma E
+57,Opony,10,612.00,Firma F
+58,Meble biurowe,2,179.00,Firma G
+59,Elementy elektroniczne,5,244.00,Firma H
+60,Czesci samochodowe,7,1222.00,Firma I
+61,Kosmetyki,1,93.00,Firma J
+62,Narzedzia,4,523.00,Firma K
+63,Zywnosc,12,621.00,Firma L
+64,Sprzet AGD,2,198.00,Firma M
+65,Artykuly biurowe,5,236.00,Firma N
+66,Meble,3,467.00,Firma O
+67,Artykuly spozywcze,15,912.00,Firma P
+68,Odziez,9,1325.00,Firma Q
+69,Chemikalia,6,555.00,Firma R
+70,Zabawki,2,47.00,Firma S
+71,Artykuly sportowe,4,278.00,Firma T
+72,Ksiazki,7,342.00,Firma U
+73,Zlom,18,1735.00,Firma V
+74,Artykuly ogrodnicze,5,423.00,Firma W
+75,Materialy budowlane,12,1342.00,Firma X
+76,Chemikalia,3,356.00,Firma Y
+77,Artykuly papiernicze,5,300.00,Firma A
+78,Narzedzia,7,800.00,Firma B
+79,Czesci samochodowe,4,350.00,Firma C
+80,Chemikalia,3,450.00,Firma D
+81,Artykuly spozywcze,12,600.00,Firma E
+82,Elektronika,2,150.00,Firma F
+83,Meble,10,900.00,Firma G
+84,Zabawki,1,50.00,Firma H
+85,Artykuly sportowe,5,400.00,Firma I
+86,Zywnosc,8,700.00,Firma J
+87,Narzedzia,6,750.00,Firma K
+88,Opony,4,550.00,Firma L
+89,Artykuly biurowe,3,250.00,Firma M
+90,Meble biurowe,2,200.00,Firma N
+91,Chemikalia,8,950.00,Firma O
+92,Sprzet AGD,2,300.00,Firma P
+93,Artykuly spozywcze,10,800.00,Firma Q
+94,Kosmetyki,1,80.00,Firma R
+95,Elementy elektroniczne,4,350.00,Firma S
+96,Odziez,6,600.00,Firma T
+97,Artykuly ogrodnicze,3,350.00,Firma U
+98,Zlom,15,2000.00,Firma V
+99,Ksiazki,6,450.00,Firma W
+100,Materialy budowlane,9,1200.00,Firma X

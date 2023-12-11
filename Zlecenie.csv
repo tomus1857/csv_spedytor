@@ -1,0 +1,11 @@
+ID_ZLECENIE,OPIS,TERMIN_REALIZACJI,STATUS,ID_KIEROWCA,ID_POJAZD,ID_LADUNEK
+1,Zlecenie 1,2023-12-24,Oczekujace,2,6,5
+2,Zlecenie 2,2024-01-09,Oczekujace,7,9,10
+3,Zlecenie 3,2023-12-21,W trakcie,4,5,3
+4,Zlecenie 4,2024-01-05,Zakonczone,4,6,6
+5,Zlecenie 5,2023-12-18,W trakcie,3,4,6
+6,Zlecenie 6,2023-12-16,Zakonczone,4,4,4
+7,Zlecenie 7,2024-01-03,Zakonczone,10,9,6
+8,Zlecenie 8,2024-01-06,Oczekujace,10,7,10
+9,Zlecenie 9,2023-12-23,Zakonczone,5,10,8
+10,Zlecenie 10,2024-01-10,Zakonczone,10,9,6
